@@ -324,7 +324,7 @@ export class BoilerplateCard extends LitElement {
       ha-card {
         background-color: rgba(255, 255, 255, 0);
         box-shadow: 2px 2px rgba(0, 0, 0, 0);
-        padding: 16px;
+        padding: 0px;
         outline: none;
       }
 

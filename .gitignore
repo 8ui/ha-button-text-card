@@ -3,3 +3,5 @@
 
 # For those using Visual Studio Code Editor
 .vscode/*
+
+.idea
