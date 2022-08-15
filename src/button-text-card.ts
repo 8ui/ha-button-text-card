@@ -366,7 +366,7 @@ export class BoilerplateCard extends LitElement {
 
       .text-container {
         color: var(--primary-text-color);
-        margin-left: 24px;
+        margin-left: 14px;
       }
 
       .icon-container ha-icon {
