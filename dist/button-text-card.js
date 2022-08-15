@@ -146,7 +146,7 @@ var et,it,nt;null===(et=window.HTMLSlotElement)||void 0===et||et.prototype.assig
 
       .text-container {
         color: var(--primary-text-color);
-        margin-left: 24px;
+        margin-left: 14px;
       }
 
       .icon-container ha-icon {
